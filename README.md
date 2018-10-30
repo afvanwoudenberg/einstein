@@ -1,4 +1,4 @@
-# Prolog program that solves Einstein's riddle
+# Einstein's riddle
 
 The following puzzle is said to be invented by Einstein. Supposedly, he also claimed that only 2% of the world’s population would be smart enough to solve it.
 
